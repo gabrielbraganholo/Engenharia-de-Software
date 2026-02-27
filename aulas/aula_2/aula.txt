@@ -1,1 +1,31 @@
+Software Produto:
 
+-conjunto de intruções
+-dados
+-documentação
+
+Produto software X Produto tradicional:
+
+-materialidade, não tem matéria prima
+-não tem a mesma forma de desgaste
+-forma de fabricação sem matéria prima
+
+Engenharia:
+
+Comunicação (estabelecer caracterírsticas/ requisitos)                      |
+    ->                                                                      |
+    Planejamento (custo, tempo e entrega de protótipo de interface)         |
+        ->                                                                  |
+        Projeto (U.M.L)                                                     |----> Gerência
+            ->                                                              |
+            Construção (código)                                             |
+                ->                                                          |
+                Entrega (documentação, manutenção)                          |
+
+                
+                Metodologia ou ciclo de vida de desenvolvimento de software
+
+
+Paradigma de Programação:
+
+    -vários jeitos de fazer a mesma coisa(escolha do caminho)
