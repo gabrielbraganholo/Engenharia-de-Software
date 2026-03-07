@@ -1,0 +1,14 @@
+## Fluxo de Processos
+
+MEtodologia -> Ciclo de Vida de Desenvolvimento de Software
+
+fluxo linear | Etapa 1 -> Etapa 2 -> Etapa 3 -> Etapa 4
+    |-> quase inexistênte -> tem que entender exatamente o que o cliente quer de primeira
+
+fluxo iterativo | Etapa 1 -> Etapa 2 -> Etapa 3
+    |                |<---------------------|
+    |-> permite voltar em processos anteriores
+
+fluxo incremental --->  A  ----> B ----> C 
+                        |-< E  <--- D  <-|
+

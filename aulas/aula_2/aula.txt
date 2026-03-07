@@ -22,6 +22,10 @@ Comunicação (estabelecer caracterírsticas/ requisitos)                      |
                 ->                                                          |
                 Entrega (documentação, manutenção)                          |
 
+-> QA - segurança de qualidade (revisão, teste)
+
+-> Gestão
+
                 
                 Metodologia ou ciclo de vida de desenvolvimento de software
 
